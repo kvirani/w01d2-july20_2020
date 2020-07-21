@@ -63,9 +63,28 @@ Let's use this (somewhat familiar) problem as a demo example:
 1. Pseudocode [10m]
 2. Incremental Implementation [20m]
 
-## Visualizing Code [10m]
+Error Driven Development
+ - Cause errors first and use them to your adv
+ - 
+
+## ~Visualizing Code [10m]~
 
 ## Recap & Takeaways [5m]
+
+- Plan your solution using Pseudocode so that you're not worrying about syntax
+- Error Driven Development (work incrementally using errors to your advantage)
+- At each incremental step, Use scientific method (hypothesis then affirmation) before running your code
+- The queue is not just for when you'er stuck (before, during, after)
+- Mentor-based approach to teaching
+  - Up to you to bridge the differences that you may get from diff mentors
+  - Context about what got you here ("KV helped me by saying I should X, I did X, now I need help going towards Y") 
+  - "What have you done so far to troubleshoot?"
+- For..of loop instead of using C-style for (counting) loop
+- Git workflow for a repo that we created from scratch (no cloning)
+- Great cohort with a lot of good discourse and questions etc!
+- Approach is key!
+  - Debugging being the key skill to focus on developing during this program
+
 
 ## Closing Comments [5m]
 
